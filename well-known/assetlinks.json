@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.gmg.maintenance",
+        "sha256_cert_fingerprints": ["F8:A3:78:D4:B3:1A:0C:48:75:6D:28:5A:D1:8C:80:F6:FE:6A:7D:35:E0:39:3B:52:A4:52:D0:E0:9F:45:78:7D"]
+      }
+    }]
